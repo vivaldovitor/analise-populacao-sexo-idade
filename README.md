@@ -1,5 +1,4 @@
-"""
-Este projeto realiza a análise de dados populacionais no período de 2000 a 2070.
+## Este projeto realiza a análise de dados populacionais no período de 2000 a 2070.
 
 Funcionalidades:
 - Processamento e análise de dados demográficos.
@@ -38,4 +37,3 @@ Requisitos:
 Notas:
 - Os dados utilizados neste projeto são provenientes do IBGE 2024 e devem ser confiáveis e atualizados.
 - As projeções são baseadas em modelos estatísticos e podem variar dependendo das condições futuras.
-"""
